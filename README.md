@@ -28,4 +28,4 @@ Cần cài đặt Python3 và thư viện OpenCV.
 ## Authors
 
 - [Ngô Huy Anh - 19CLC6 - FIT HCMUS](https://github.com/tristanhuyanhngo)
-- [Triệu Nguyên Phát - 19CLC6 - FIT HCMUS]()
+- [Triệu Nguyên Phát - 19CLC6 - FIT HCMUS](https://github.com/phatng45)
